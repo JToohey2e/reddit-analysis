@@ -1,0 +1,652 @@
+Comment ID,Topic,Sentiment
+1,republican,-0.7
+1,politcal ad,-0.2
+2,conspiracy theories,-0.6
+2,republican,-0.8
+2,musk,-0.4
+2,twitter,-0.1
+2,trump,-0.7
+2,assassination,-0.8
+4,republican,-0.8
+4,conspiracy,-0.5
+5,nancy,0.4
+5,trump,-0.5
+5,jan 6,0
+6,fox news,-1
+6,domestic terrorist,-0.8
+7,Off with Her Head: Three Thousand Years of Demonizing Women in Power,0
+7,Eleanor Herman,0
+7,European Renaissance,-0.3
+7,U.S. elections,-0.3
+7,Misogynist's Handbook,-0.5
+8,biden,0.3
+8,republican,-0.8
+8,pro life,0
+8,permanent minority,0
+9,assassination,-0.7
+10,republican,-0.9
+11,Florida,-0.2
+11,Governor Ron DeSantis,-0.7
+11,election,0
+12,DoJ,0
+12,Broward County,0
+12,Florida,0
+12,Miami-Dade County,0
+12,Palm Beach County,0
+12,Duval County,0
+12,Hillsborough County,0
+12,Orange County,0
+12,DeSoto County,0
+12,Pinellas County,0
+12,Lee County,0
+12,Hendry County,0
+12,Osceola County,0
+13,DeSantis,-0.4
+13,DOJ,0.2
+14,Natural Light,-0.3
+14,AR,-0.3
+14,0.45,-0.3
+14,DeSantis,-0.7
+14,fascist,-0.5
+15,Federalist,0.3
+15,federal government,0
+15,constitutionalists,-0.5
+15,constitution,0.2
+16,elections,0
+17,republicans,-0.8
+18,Desantis,-1
+18,fascist,-1
+19,Biden,0.6
+19,Desantis,-0.6
+19,Kennedy,0.6
+19,George Wallace,-0.8
+19,Alabama,-0.2
+19,University of Alabama,-0.2
+19,National Guard,0.2
+19,polls,0
+19,Democrat,0.5
+19,GOP,-0.6
+19,governor,0
+21,Republican primary,0
+21,McCormick,0
+21,courts,0
+21,ballots,0
+22,ballots,0.1
+23,Republicans,-0.7
+23,Americans,0.5
+23,insulin,0.2
+24,ballots,0.2
+24,election day,0
+26,ballot,0
+26,Oregon,0
+26,republicans,-0.6
+28,ballot,0.3
+28,GOP,-0.8
+29,US elections,0.2
+29,Moscow,-0.7
+30,PA,0
+30,mail-in ballot,0.3
+33,MAGA America,-0.9
+33,1960's,0.2
+33,New Deal,0.6
+33,Great society,0.6
+33,Medicare,0.7
+33,Medicaid,0.7
+33,Social Security,0.7
+33,Food Stamps,0.7
+33,public housing,0.7
+33,social safety net,0.7
+33,National Parks,0.7
+33,public lands,0.7
+33,corporations,-0.6
+33,public good,0.9
+33,robber barons,-0.8
+33,US,0.4
+33,America,0.4
+34,republicans,-0.7
+34,oversight committees,0.6
+34,worker & consumer protection agencies,0.6
+34,healthcare quality,0.7
+34,maga,-0.5
+35,MAGA America,-0.6
+35,MAGA,-0.6
+35,fascist,-0.8
+36,dystopian futures,-0.8
+36,Handmaid'a Tale,-0.8
+36,Idiocracy,-0.8
+38,MAGA America,-0.9
+40,fascist america,-0.7
+42,Herschel Walker,-0.9
+42,black people,0.4
+43,Alton Russell,-1
+43,Pam Reardon,-1
+43,Vice Chair,-0.2
+43,Republican Party,-0.6
+44,voter suppression,-0.8
+45,democracy,0.6
+46,Republican,-0.4
+47,republicans,-0.8
+48,Trump,-0.7
+48,Governor,-0.4
+48,Georgia,0
+49,conspiracy theorists,-0.7
+49,Georgians,0.3
+50,governor,-0.7
+51,inflation,-0.2
+52,election,0.1
+55,Congress,0.2
+56,Trump,-0.6
+57,Trump,-0.1
+60,Americans,0.3
+60,election,0
+62,homeschooling,-0.4
+63,The Waterboy,0
+63,Mama Boucher,0
+64,Idiocracy,-0.7
+66,Terry Pratchett,0.1
+67,Sex education,0.5
+69,Germany,-0.3
+69,Cabo,-0.3
+69,1933-1945,-0.7
+71,Oprah,0.4
+71,Fetterman,0.7
+71,Oz,-0.8
+72,Fetterman,0.8
+73,Elon,-0.6
+73,Google,0
+73,YouTube,0
+73,Republicans,-0.7
+73,Bond villain,-0.8
+74,Pennsylvania,0.2
+75,Fetterman,0.9
+75,PA,0
+76,Fetterman,0.8
+77,Republicans,-0.7
+78,Johnny,0.8
+79,Shapiro,0.7
+80,Dem,0.2
+81,impeachment,-0.4
+81,House,0
+81,Senate,0
+81,House Managers,-0.2
+82,D-day,-0.8
+82,Democrats,0.3
+82,republican,-0.7
+82,Russian trolls,-0.8
+84,impeaching,-0.5
+85,impeachment,-0.4
+85,Marge Green,-1
+85,Klannie,-0.8
+85,fascist,-0.9
+85,fetal alcohol syndrome,-0.9
+86,House Majority,0
+86,impeachment,-0.3
+87,MAGA,-0.6
+87,Joe Biden,0.3
+87,impeachment,-0.6
+87,Soros,0
+87,Hunter Biden,0
+88,VP,0
+90,Idiocracy,-0.8
+90,election,0
+90,Republican,-0.1
+90,America,0.2
+91,Palin,0
+92,Times,0
+92,Trump,-0.6
+92,Desantis,0
+92,Florida,0
+92,governor,0
+93,Trump,-0.8
+94,Daddy Shit,-0.9
+95,VP,0
+96,Trump,-0.8
+96,US,0.2
+96,free world,0
+96,Greene,-0.8
+98,DeSantis,-0.2
+98,Trump,-0.4
+98,GOP,-0.4
+99,DeSantis,0
+99,2024,0
+99,Trump,0
+100,Trump,-0.8
+101,kawhi,-0.6
+101,spurs,0
+101,raptors,0
+102,Clippers,-0.5
+104,Kawhi,-0.6
+104,Leonard,-0.6
+106,Kawhi,-0.2
+106,medical retirement,0
+107,Clippers,0
+108,Kawhi,-0.5
+111,Zion,0.2
+112,Lil Escalade,0
+115,"Charles ""The Round Mound of Rebound"" Barkley",0
+115,"Bryant ""Big Country"" Reeves",0
+115,"Glen ""Big Baby"" Davis",0
+115,Kyle Lowry,0
+115,"Zion ""Fat Professional Athlete"" Williamson",0
+116,analysts,-0.1
+116,professional athlete,0
+117,Ben Simmons,0
+118,Zion,0.7
+118,basketball,0.2
+119,Reddit,-0.2
+121,points,0.4
+121,shots,0.2
+121,FT,0
+121,assists,0.6
+121,turnovers,-0.4
+122,Poole,-0.8
+122,Klay,-0.8
+124,Kings,-0.3
+124,points,0
+125,Steph,0.7
+126,point,0.3
+126,triple double,0.6
+127,points,0.3
+127,true shooting percentage,0
+128,Steph Carry,0
+129,Curry,0.3
+130,Steph,0.7
+130,plus minus,0
+130,warriors,-0.4
+130,point differential,0
+131,Sacramento kings,0.4
+131,L2M,0
+132,L2M,-0.2
+132,Huerter,0
+133,Mike Brown,0
+134,ref,-0.7
+135,refs,-0.8
+137,ref,-0.6
+138,Kings,0.3
+138,refs,-0.5
+138,big market,-0.2
+140,Herro,-0.6
+140,travel,-0.6
+141,free agency,0
+142,Kyrie,-0.7
+144,Kyrie Irving,-0.2
+145,Nets,0
+145,Kyrie,-0.6
+146,Nets,0.4
+146,Meyers Leonard,0
+146,career,0
+147,Facebook,-0.2
+147,instagram,-0.2
+147,Kyrie,-0.6
+147,Illuminati,-0.5
+147,Guantanamo,-0.5
+148,nets,-0.3
+148,Amazon,-0.2
+148,Big Four,-0.2
+148,PIP,-0.2
+149,antisemitism,-0.8
+149,Kyrie,-0.8
+150,meeting,-0.5
+151,Giannis,1
+152,Dunk,0.3
+153,Scottie,0.7
+153,Dunk,0.6
+154,Vuc,-0.6
+155,,
+156,,
+157,Raps,1
+157,Dunks,0.9
+158,,
+159,,
+160,,
+161,Tatum,1
+162,Players,0.7
+163,,
+164,Ja,1
+165,NBA,1
+166,Tatum,-0.6
+167,Deuce,0.4
+168,Tatum,1
+169,Game,0.9
+170,NBA,0.8
+171,job,-0.4
+172,leaders,0.4
+173,Jaylen Brown,-0.7
+174,Players,-0.1
+174,Robin Lopez,0.8
+174,Kyrie,-0.7
+175,,
+176,Jaylen,0.8
+176,Kyrie,0.4
+177,Jaylen Brown,0.4
+177,Kyrie,-0.8
+177,NBPA,0.8
+177,Nets,-0.7
+177,antisemitism,-1
+177,Brooklyn,0.3
+177,Joe Tsai,-0.4
+177,Boston,0.3
+177,Memphis,0.3
+178,,
+179,Players,-0.1
+179,Kyrie,-0.8
+180,,
+181,Basketball,-0.5
+181,Knicks,-0.6
+182,Knicks,-0.5
+183,Hornets,-0.4
+184,,
+185,,
+186,,
+187,RJ,0.8
+187,Brunson,0.8
+188,Brunson,0.9
+188,Randle,0.7
+189,,
+190,Knicks,0.4
+190,Basketball,0.4
+191,refs,-0.7
+191,league,-0.7
+191,Warriors,0.4
+192,kings,-0.6
+192,refs,-0.8
+192,Rudy Gobert,0.7
+193,foul,-0.8
+193,nba,-0.7
+193,fans,0.4
+194,no calls,-0.9
+195,Kings,-0.4
+195,Herro,-0.6
+195,foul,-0.7
+196,foul,-0.7
+197,sports betting,-0.8
+197,Donaghy,-0.4
+198,,
+199,call,-0.8
+200,Kings,-0.6
+200,ref,-0.8
+200,no call,-0.8
+201,Dear Garbage Man,0.2
+201,Glen Zion,0.2
+201,garbage truck,-0.2
+201,book,-0.2
+201,littering,-0.6
+202,Dear Garbage Man,0.4
+202,recycling,-0.7
+202,wetlands,-0.7
+203,Ballet Bunny,0.9
+203,ballerinia,-0.6
+203,Bunny girl,0.4
+204,Ugly Duckling,0.8
+204,duck,-0.4
+205,Going to Bed,0.5
+205,Peter Rabbit,-0.5
+206,Tomas the tank engine,-0.4
+206,George carlin,0
+207,story,0.3
+207,books,0.7
+207,kids,0.3
+208,Green Eggs and Ham,0.7
+209,Rainbow fish,-0.8
+210,Curious George,-0.5
+210,Man in the Yellow Hat,-0.9
+211,,
+212,Empire of the Summer Moon,0.9
+212,Commanche Indians,0
+212,Texas rangers,0
+213,1491,0.8
+214,authors,0.8
+214,Craig Childs,0.8
+214,Allan W. Eckert,0.8
+214,Indian Wars,0.3
+214,school,0
+215,Pocahantos,-0.4
+216,KING PHILIP'S WAR AND THE ORIGINS OF AMERICAN IDENTITY,0.8
+216,Jill Leopre,0.8
+217,Native Americans,0
+218,1491,0.7
+218,Charles Mann,0.7
+218,American redditors,-0.4
+219,Haudenosuanee,0.7
+219,Iroquois Confederacy,0.7
+219,Indigenous cultures,0.6
+220,Native Americans,0
+221,Faster Than the Speed of Love,0
+221,B. Griffin,0
+222,The Last Librarian,-0.9
+222,book,0.3
+222,main characters,-0.4
+223,books,0.3
+223,Kindle Unlimited,-0.4
+223,character,-0.6
+224,Verity,-1
+225,,
+226,After,0
+226,Anna Todd,0
+227,50 Shades of grey,-0.9
+227,chapters,-0.7
+228,Verity,-0.8
+229,Overcoming the Silent Pride Within: Date to Compare,-0.9
+229,book,-0.5
+230,Mein Kampf,-1
+230,Hitler,-1
+231,Booktok,-0.8
+231,Booksellers,-0.8
+231,librarians,0.7
+231,Book tube,0.7
+232,Bookseller,0.6
+232,YA,0.8
+232,"Love, Simon",0.7
+232,Colleen Hoover,0.7
+232,Ali Hazelwood,0.7
+232,Booktok,-0.8
+232,goodreads,0.7
+233,YA,0.4
+233,tiktok,-0.8
+233,books,0.7
+233,Elizabeth Acevedo,0.8
+233,Alice Oseman,0.8
+233,Ali Hazelwood,-0.4
+233,romance,-0.7
+234,YA,0.8
+234,The Blue Sword,0.8
+234,The House on Mango Street,0.8
+234,Howl’s Moving Castle,0.8
+234,The Moon is a Harsh Mistress,0.8
+234,Confederacy of Dunces,0.8
+234,Little Women,0.8
+234,A Wrinkle in Time,0.8
+234,The Hitchhiker’s Guide to the Galaxy,0.8
+234,Stranger In A Strange Land,0.8
+234,Dune,0.8
+234,The Hunger Games,0.8
+234,The Fault in Our Stars ,0.8
+234,The Hobbit,0.8
+234,The Lord of the Rings,0.8
+234,The Golden Compass,0.8
+234,Lord of the Flies,0.8
+234,The Martian,0.8
+234,The Curious Incident of the Dog in the Night-Time ,0.8
+234,Tuck Everlasting,0.8
+234,The Hate U Give,0.8
+234,A Wizard of Earthsea,0.8
+234,Miss Peregrine's Home for Peculiar Children,0.8
+234,Parable of a Sower,0.8
+234,The Perks of Being A Wallflower,0.8
+234,Holes,0.8
+234,The Catcher in the Rye,0.8
+234,Station Eleven,0.8
+234,The Night Circus,0.8
+234,Ender’s Game,0.8
+234,Dragonsong,0.8
+234,Pride and Prejudice,0.8
+234,Ready Player One,0.8
+234,Jurassic Park,0.8
+234,Eaters of the Dead,0.8
+234,A Tree Grows in Brooklyn ,0.8
+234,The Fifth Season,0.8
+234,Stardust,0.8
+234,Good Omens,0.8
+234,Life of Pi,0.8
+234,Extremely Loud and Incredibly Close,0.8
+235,romance,-0.4
+235,YA,0.3
+235,books,0.3
+235,Dearly,0.8
+235,Margaret Atwood,0.8
+235,Dianna Wynne Jones,0.3
+235,Susan Cooper,0.7
+235,Dark is Rising,0.7
+235,The Book of Lost Things,0.8
+235,John Connoly,0.7
+235,I Capture the Castle,0.7
+235,Dodie Smith,0.7
+236,Romance,-0.7
+236,YA,-0.7
+236,Sarah K Maas,-0.4
+236,ACOTAR,-0.4
+236,Percy Jackson,0.6
+236,Books,0.4
+236,tiktok,-0.7
+237,Ali Hazelwood,0.3
+237,YA,-0.3
+237,books,0.3
+237,tiktok,-0.6
+238,,
+239,tiktok,-1
+239,books,-0.5
+239,Libraries,0.6
+239,newsletter,0.6
+239,bookstore,0.6
+240,YA,0.6
+240,booktok,-0.7
+240,Ali Hazelwood,-0.5
+241,Aragorn,0.6
+241,Arwen,0.6
+241,Minas Tirith,-0.4
+241,Feänor,-0.7
+241,Melkor,-0.7
+241,Eru,0.7
+241,Valar,0.7
+242,Tolkien,1
+243,Tolkien,0.6
+243,Feanor,-0.4
+243,Silmarils,0.3
+244,Beregond,-0.7
+245,Gimli,-0.5
+245,Frodo,0.3
+246,lord of the rings,0.6
+247,Sam,0.3
+247,Valinor,0.3
+248,Boromir,-0.7
+248,Sam,0.5
+248,Frodo,0.5
+248,Valinor,0.7
+249,Game of Thrones,0.3
+249,Frey,-0.6
+250,Saruman,-0.3
+250,Istari,0.5
+250,Valar,0.6
+250,Valinor,0.6
+250,Radegast,0.6
+250,LotR,0.4
+251,Burning a friend,0.6
+251,mirakami,0.4
+252,Colorless Tsukuru Tazaki,0.4
+252,The Wind-Up Bird Chronicle,0.8
+252,Killing Commendatore,0.9
+252,Murakami,0.3
+252,The Great Gatsby,0.6
+252,1Q84,0.3
+253,,
+254,Memory Police,-0.3
+254,Yōko Ogawa,-0.3
+254,Murakami,-0.4
+255,,
+256,Murakami,0.4
+256,1Q84,0.9
+257,1Q84,0.4
+257,Murakami,0.4
+258,Hardboiled Wonderland,0.8
+258,Murakami,0.7
+259,Norwegian Wood,-0.7
+259,book,-0.7
+260,books,-0.4
+261,,
+262,Frank Herbert,-0.2
+262,Dune,-0.2
+262,Paul,0
+262,Hawat,0
+263,Robert Jordan,-0.2
+264,Nickie,-0.3
+264,Nick,-0.3
+264,Uncle George,-0.2
+264,Indian Camp,0.3
+264,Ernest Hemingway,0.3
+265,McCarthy,0.8
+266,Trainsportting Irvine Welsh,0.2
+266,Virginia Woolf,0
+266,Kerouac,0.2
+267,José Saramago,0.9
+268,Henry James,-0.7
+269,A House to Let,0.8
+269,Charles Dickens,0.8
+269,Wilkie Collins,0.8
+269,Elizabeth Gaskell,0.8
+269,Adelaide Anne Proctor,-0.4
+270,The Icepick Surgeon,0.8
+271,sam,0.3
+272,,
+273,Einstein,0.5
+273,Hawking,0.5
+274,books,0.8
+274,chemistry,0.8
+274,science,0.8
+275,Mr. Kean,0.3
+275,The Disappearing Spoon,0.8
+275,Nikola Tesla,0.8
+276,,
+277,,
+278,Sam,0.3
+278,books,0.9
+278,publication,0.5
+279,The Disappearing Spoon,0.9
+279,chemistry,0.5
+280,,
+281,Heinlein,0.3
+281,Starship Troopers,0.3
+281,book,0.3
+281,George Orwell,0.8
+281,Animal Farm,0.8
+281,Comrade Napoleon,0.6
+281,History of Rome,0.8
+281,Theodor Mommsen,0.8
+282,The Fifth Risk,0.8
+282,Michael Lewis,0.8
+283,Postwar: A History of Europe Since 1945,0.7
+283,Tony Judt,0.7
+283,Thatcher,-0.7
+283,Blair,-0.7
+284,Atlas Shrugged,0.7
+284,Mark Levin,0.5
+285,Tim Snyder,0.8
+285,The Road to Unfreedom,0.8
+286,The Athenian Democracy in the Age of Demosthenes,0.8
+286,Mogens Herman Hansen,0.8
+286,Athens,0.8
+286,Democracy,-0.4
+286,Fourty Tyrants,0.4
+287,Lolita in Teheran,0.7
+287,Azar Nafisi,0.7
+287,democracy,0.8
+287,Pride and Prejudice,0.7
+288,The Wisdom of Crowds,0.7
+288,book,0.7
+289,America,-0.7
+290,The Strom before the Strom,0.7
+291,Michael Shermer,0.8
+292,,
+293,Starry Messenger,0.9
+293,Neil deGrasse Tyson,0.9
+294,,
+295,,
