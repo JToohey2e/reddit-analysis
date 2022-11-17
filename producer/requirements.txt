@@ -1,0 +1,9 @@
+requests
+certifi
+ksql==0.10.2
+confluent-kafka[avro,json,protobuf]==1.9.2
+praw==7.6.0
+flair==0.11
+debugpy==1.4.1
+textblob==0.17.1
+pandas==1.4.1
